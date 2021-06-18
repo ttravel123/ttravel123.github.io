@@ -1,0 +1,32 @@
+var site_tree_node = {
+  "url": "https://ttravel123.github.io/",
+  "incount": "1",
+  "outcount": "4",
+  "title": "Docum...",
+  "childs": [
+  {
+    "url": "https://ttravel123.github.io/index.html",
+    "incount": "4",
+    "outcount": "4",
+    "title": "Docum...",
+    "childs": [
+        ]
+  }
+  ,{
+    "url": "https://ttravel123.github.io/details.html",
+    "incount": "12",
+    "outcount": "16",
+    "title": "Docum...",
+    "childs": [
+    {
+      "url": "https://ttravel123.github.io/pay.html",
+      "incount": "12",
+      "outcount": "4",
+      "title": "Docum...",
+      "childs": [
+            ]
+    }
+    ]
+  }
+  ]
+}

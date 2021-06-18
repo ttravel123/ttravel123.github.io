@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- Created By http://www.zhetao.com/sitemapcreator, URLs: 4 Page: 1 Generated at: 2021-06-18 10:56:02 -->
+
+  <url>
+    <loc>https://ttravel123.github.io/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://ttravel123.github.io/index.html</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://ttravel123.github.io/details.html</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://ttravel123.github.io/pay.html</loc>
+    <priority>1.00</priority>
+  </url>
+
+</urlset>

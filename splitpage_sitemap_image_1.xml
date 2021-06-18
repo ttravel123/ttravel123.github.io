@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- Created By http://www.zhetao.com/sitemapcreator, URLs: 4 Generated at: 2021-06-18 10:56:02 -->
+
+  <url>
+    <loc>https://ttravel123.github.io/</loc>
+    <priority>1.00</priority>
+<image:image>
+<image:loc>https://ttravel123.github.io/img/pc_05-3.jpg</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://ttravel123.github.io/images2/share.png</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://ttravel123.github.io/img/官网LP_10.jpg</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://ttravel123.github.io/images2//arrow.png</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://ttravel123.github.io/img/官网LP_13.jpg</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://ttravel123.github.io/img/官网LP_15.jpg</image:loc>
+</image:image>
+  </url>
+
+</urlset>
